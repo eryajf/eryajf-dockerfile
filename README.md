@@ -10,6 +10,9 @@
 - [go1.19](./base/go1.19/build.sh)
 - [go1.20](./base/go1.20/build.sh)
 - [jdk-1.8](./base/jdk-1.8/build.sh)
+- [jre-1.8](./base/jre-1.8/build.sh)
+- [mvnd](./base/mvnd/build.sh)
+- [nexus3](./base/nexus3/build.sh)
 - [node-16.20](./base/node-16.20/build.sh)
 
 你可以通过push后的地址进行下载直接使用。
