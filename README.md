@@ -14,5 +14,6 @@
 - [mvnd](./base/mvnd/build.sh)
 - [nexus3](./base/nexus3/build.sh)
 - [node-16.20](./base/node-16.20/build.sh)
+- [alpine-3.18](./base/alpine-3.18/build.sh)
 
 你可以通过push后的地址进行下载直接使用。
